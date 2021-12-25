@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Nhận Quà Giáng Sinh",
+    introTitle: 'Lại là Mến Bri các Ban iu thương nhất đây ạ',
+    introDesc: `Chúc đồng chí có một giáng sinh an lành
+    Một tháng cuối năm vui vẻ và may mắn nha
+    Đồng chí nào chưa có người yêu thì sớm có 1 bé nhé
+    Đồng chí nào có rồi thì tem tém phát cơmtros lại nha`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    title: 'Hãy chọn cho mình một món quà iu thích nàooooo 🥰',
+    desc: ' ',
+    btnYes: '+1 tình yêu thương của Mến Bri <33',
+    btnNo: '500k :3',
+    question: 'Đồng chí có thích món quà này không nhỉ <3',
+    btnReply: 'Yêuuuuuu kas <3',
+    reply: 'Mình Thích Lắm nhé <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'Đồng chí có muốn nhận thêm quà không.',
+    btnAccept: 'Tất nhiên rồi <3',
+    messLink: 'https://drive.google.com/file/d/1UA4wdLfhYRX6EXY_rny7B6CQeabrTnpv/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
